@@ -1,5 +1,5 @@
 <h1 align="center">Maxime THIBAULT</h1>
-<h3 align="center">Etudiant en MMI (Métiers du Multimédia et de l'Internet) à l'IUT Bordeaux Montaigne</h3>
+<h3 align="center">Développeur web chez Natural-net</h3>
 
 
 <h3 align="left">Quelques projets :</h3>
@@ -15,9 +15,8 @@
   
 - Profil <a href="https://linkedin.com/in/mthibaultweb" target="blank">LinkedIn</a>
 
-- Portfolio <a href="https://maxime-thibault.fr/" target="blank">maxime-thibault.fr</a>
+- Portfolio <a href="https://maxime-thibault.com/" target="blank">maxime-thibault.com</a>
 
-- Email <a href="mailto:maxime.thibault@mmibordeaux.com" target="blank">maxime.thibault@mmibordeaux.com</a>
 </p>
 
 <h3 align="left">Languages & outils :</h3>
