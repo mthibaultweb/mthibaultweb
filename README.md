@@ -15,8 +15,6 @@
   
 - Profil <a href="https://linkedin.com/in/mthibaultweb" target="blank">LinkedIn</a>
 
-- Portfolio <a href="https://maxime-thibault.com/" target="blank">maxime-thibault.com</a>
-
 </p>
 
 <h3 align="left">Languages & outils :</h3>
