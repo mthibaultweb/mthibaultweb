@@ -1,5 +1,5 @@
 <h1 align="center">Maxime THIBAULT</h1>
-<h3 align="center">Développeur web chez Natural-net</h3>
+<h3 align="center">Développeur web chez Natural net</h3>
 
 
 <h3 align="left">Quelques projets :</h3>
